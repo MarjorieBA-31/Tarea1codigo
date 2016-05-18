@@ -1,0 +1,6 @@
+c:\users\my\documents\visual studio 2015\Projects\MTarea1\MTarea1\bin\Debug\MTarea1.exe.config
+C:\Users\MY\Documents\Visual Studio 2015\Projects\MTarea1\MTarea1\bin\Debug\MTarea1.exe
+C:\Users\MY\Documents\Visual Studio 2015\Projects\MTarea1\MTarea1\bin\Debug\MTarea1.pdb
+C:\Users\MY\Documents\Visual Studio 2015\Projects\MTarea1\MTarea1\obj\Debug\MTarea1.csprojResolveAssemblyReference.cache
+C:\Users\MY\Documents\Visual Studio 2015\Projects\MTarea1\MTarea1\obj\Debug\MTarea1.exe
+C:\Users\MY\Documents\Visual Studio 2015\Projects\MTarea1\MTarea1\obj\Debug\MTarea1.pdb
